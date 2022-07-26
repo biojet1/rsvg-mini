@@ -1,4 +1,4 @@
-use crate::extra::prefixes::{Prefix, Prefixes};
+use super::extra::prefixes::{Prefix, Prefixes};
 // use crate::{Element, Error};
 use rxml::RawEvent;
 
